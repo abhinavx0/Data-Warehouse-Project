@@ -78,6 +78,97 @@ Develop SQL-based insights to support strategic decision-making by analyzing:
 
 The resulting metrics will provide actionable intelligence for stakeholders, supporting both operational and strategic goals.
 
+## 🔍 Exploratory Data Analysis (EDA)
+
+All SQL queries used for exploration and KPI generation:  
+👉 :contentReference[oaicite:0]{index=0}  
+
+---
+
+## 📈 Key Business Questions Answered
+
+### 🛍️ Product Analysis
+- Which products generate the highest revenue?
+- Which products are underperforming?
+- How does product performance change over time?
+
+### 👤 Customer Analysis
+- Who are the top customers by revenue?
+- What is the customer distribution by country and gender?
+- How many customers are actively purchasing?
+
+### 📊 Sales Analysis
+- What are total sales, orders, and quantities?
+- What are sales trends over time?
+- Which regions contribute most to revenue?
+
+---
+
+## 📌 KPIs (Key Performance Indicators)
+
+### 💰 Core Metrics
+- Total Sales  
+- Total Orders  
+- Total Quantity Sold  
+- Average Selling Price  
+- Total Customers  
+- Active Customers  
+
+### 📦 Product KPIs
+- Revenue by Category  
+- Top 5 & Bottom 5 Products  
+- Average Cost per Category  
+- Product Sales Distribution  
+
+### 👥 Customer KPIs
+- Revenue per Customer  
+- Customer Segmentation (VIP / Regular / New)  
+- Demographics (Age, Country, Gender)  
+
+### ⏱️ Time-Based KPIs
+- Monthly & Yearly Sales Trends  
+- Order Lifecycle Analysis  
+- Recency (Last Purchase Behavior)  
+
+---
+
+## 🧠 Advanced EDA & Insights
+
+Detailed EDA with segmentation and trends:  
+👉 :contentReference[oaicite:1]{index=1}  
+
+### 🔹 Product Insights
+- Identified high vs low performing products  
+- Tracked revenue trends and growth patterns  
+- Used moving averages for trend clarity  
+
+### 🔹 Customer Insights
+- Identified VIP customers driving major revenue  
+- Segmented users based on behavior  
+- Analyzed purchase frequency and spending  
+
+### 🔹 Sales Trends
+- Detected seasonality  
+- Compared year-over-year performance  
+- Built cumulative and trend metrics  
+
+---
+## 🚀 What Makes This Project Strong
+
+- End-to-end pipeline (Data → Insights)  
+- Strong business KPI understanding  
+- Real-world analytics use cases  
+- Structured problem-solving  
+
+---
+
+## 🔮 Future Improvements
+
+- Build Power BI / Tableau dashboards  
+- Add Customer Lifetime Value (CLV)  
+- Add churn prediction  
+- Include profit & margin analysis  
+
 ---
 ## 🛡️ License
 
